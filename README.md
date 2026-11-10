@@ -25,7 +25,11 @@ Projeto conceitual para o desafio de Vibe Coding da DIO. O Saldo Claro reúne re
 
 ## Registro da interação
 
-O PRD foi inserido na interface do Lovable. Ao enviar, a plataforma abriu a tela de cadastro. A geração da prévia e a captura das evidências da interação ficam pendentes de acesso ao Lovable.
+O PRD foi enviado ao Lovable e abriu o projeto Saldo Claro. A captura registra o prompt e o início da análise. A prévia ainda estava em geração quando a interação foi registrada. Os cenários acima são critérios de aceite.
+
+![Interação com o Lovable](saldo-claro-lovable.jpg)
+
+Uma próxima iteração deve testar a entrada de lançamentos por conversa, com revisão de valor, data e categoria antes de salvar.
 
 ## Reflexão
 
